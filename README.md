@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/arina-tuladhar/solid-doodle/tree/master/0088-merge-sorted-array) |
 | [0679-24-game](https://github.com/arina-tuladhar/solid-doodle/tree/master/0679-24-game) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/arina-tuladhar/solid-doodle/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Math
@@ -15,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0679-24-game](https://github.com/arina-tuladhar/solid-doodle/tree/master/0679-24-game) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/arina-tuladhar/solid-doodle/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/arina-tuladhar/solid-doodle/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
